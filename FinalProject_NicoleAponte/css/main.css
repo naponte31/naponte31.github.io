@@ -1,0 +1,74 @@
+header {
+  font-family: 'Mukta', sans-serif;
+  font-size: 25px;
+
+}
+body {
+  font-family: 'Mukta', sans-serif;
+  font-size: 15px;
+  margin: 0px;
+  background-color: lightsteelblue;
+}
+
+.padding {
+  padding-right: 25px;
+}
+
+h1 {
+  ;font-family: 'Bebas Neue', cursive;
+  font-size: 45px;
+  margin-top: 2.5rem;
+}
+
+h2 {
+; font-family: 'Bebas Neue', cursive;
+  font-size: 23px;
+  margin-top: 1.0rem;
+}
+
+img {
+  width: 60%;
+}
+
+svg {
+  padding-right: 3px;
+}
+
+
+.caption {
+  font-size: 12px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
+
+p{ 
+  font-size: 18px;
+  font-family:'Mukta', sans-serif;
+  margin-bottom: 35px;
+ }
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: white;
+  color: black;
+  font-family: 'Mukta', sans-serif
+}
+
+.pullquote {
+  font-size: 24px;
+  font-family:'Bebas Neue', sans-serif;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
